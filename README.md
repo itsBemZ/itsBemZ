@@ -1,4 +1,4 @@
-<p align="center"> <img style="border-radius:25px 100px;" align="center" alt="Image" width="100%" src="https://raw.githubusercontent.com/imBemZy/imBemZy/main/src/Assest/gif/jim-carrey-typing.gif?raw=true" /> </p>
+<p align="center"> <img  align="center" alt="Image" width="100%" src="https://raw.githubusercontent.com/imBemZy/imBemZy/main/src/Assest/gif/jim-carrey-typing.gif?raw=true" /> </p>
 
 <p align="center">
 <h1 align="center">Hi 👋, I'm BemZ</h1>
@@ -11,7 +11,7 @@
 
 <img align="right" alt="Image" width="300" src="https://raw.githubusercontent.com/imBemZy/imBemZy/main/src/Assest/gif/error.gif?raw=true" />
 
-- 🔭 I’m currently working on **[Guess The Number](https://imbemzy.github.io/Guess-The-Number/)** <span><a href="https://twitter.com/zouhair_bem" target="blank"><img style="border-radius:10px;" src="https://img.shields.io/website?down_color=red&down_message=offline&label=&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fimbemzy.github.io%2FGuess-The-Number%2F" alt="zouhair_bem" /></a></span> - Awesome Web-Game using [Vanilla JavaScript](http://vanilla-js.com/)
+- 🔭 I’m currently working on **[Guess The Number](https://imbemzy.github.io/Guess-The-Number/)** <span><a href="https://twitter.com/zouhair_bem" target="blank"><img  src="https://img.shields.io/website?down_color=red&down_message=offline&label=&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fimbemzy.github.io%2FGuess-The-Number%2F" alt="zouhair_bem" /></a></span> - Awesome Web-Game using [Vanilla JavaScript](http://vanilla-js.com/)
 
 - 🌱 I’m currently learning **[Vanilla JavaScript](http://vanilla-js.com/)** & **[ReactJS](https://reactjs.org/)** Projects
 
@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **[ReactJS](https://reactjs.org/)** & **[Vue.js](https://vuejs.org/)**
 
-- 👨‍💻 All of my projects are available at **[https://imbemzy.github.io/](https://imbemzy.github.io/)** <a href="https://github.com/imBemZy/imBemZy.github.io" target="blank"><img style="border-radius:10px;" src="https://img.shields.io/github/stars/imBemZy/imBemZy.github.io" alt="imbemzy" /> </a>
+- 👨‍💻 All of my projects are available at **[https://imbemzy.github.io/](https://imbemzy.github.io/)** <a href="https://github.com/imBemZy/imBemZy.github.io" target="blank"><img  src="https://img.shields.io/github/stars/imBemZy/imBemZy.github.io" alt="imbemzy" /> </a>
 
 - 💬 Ask me about **Anything**
 
@@ -45,8 +45,8 @@
 ---
 
 <p align="center">
-<p align="left"><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imbemzy&show_icons=true&locale=en&layout=compact" alt="imbemzy" /></p>
-<p align="center"><img align="center"  width="49%" src="https://github-readme-stats.vercel.app/api?username=imbemzy&show_icons=true&locale=en" alt="imbemzy" /></p>
+<p align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imbemzy&show_icons=true&locale=en&layout=compact" alt="imbemzy" /></p>
+<p align="center"><img align="center"  width="48%" src="https://github-readme-stats.vercel.app/api?username=imbemzy&show_icons=true&locale=en" alt="imbemzy" /></p>
 </p>
 
 ---
@@ -55,5 +55,5 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/imBemZy/" target="blank"> <img style="border-radius:10px;" src="https://img.shields.io/github/followers/imBemZy?logo=github&style=for-the-badge" alt="zouhair_bem" /> <img style="border-radius:10px;" src="https://komarev.com/ghpvc/?username=imBemZy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="imbemzy" /> </a> </p>
-<p align="center"> <a href="https://twitter.com/zouhair_bem" target="blank"><img style="border-radius:10px;" src="https://img.shields.io/twitter/follow/zouhair_bem?color=blue&logo=twitter&style=for-the-badge" alt="zouhair_bem" /></a> </p>
+<p align="center"> <a href="https://github.com/imBemZy/" target="blank"> <img  src="https://img.shields.io/github/followers/imBemZy?logo=github&style=flat" alt="zouhair_bem" /> <img  src="https://komarev.com/ghpvc/?username=imBemZy&label=Profile%20views&color=0e75b6&style=flat" alt="imbemzy" /> </a> </p>
+<p align="center"> <a href="https://twitter.com/zouhair_bem" target="blank"><img  src="https://img.shields.io/twitter/follow/zouhair_bem?color=blue&logo=twitter&style=flat" alt="zouhair_bem" /></a> </p>

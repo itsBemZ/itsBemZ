@@ -45,4 +45,4 @@
 
 <p><img align="center"  width="30%" src="https://github-readme-stats.vercel.app/api?username=imbemzy&show_icons=true&locale=en" alt="imbemzy" /></p>
 
-<p><img align="right" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=imbemzy&" alt="imbemzy" /></p>
+<p><img align="" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=imbemzy&" alt="imbemzy" /></p>

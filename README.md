@@ -40,9 +40,8 @@
 <code><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Twitter" height="30" width="40" /></code></a>
 <a href="https://medium.com/@zouhair.bem" target="blank">
 <code><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></code></a>
-<a href="https://dev.to/imbemzy" target="blank">
-<code><img  src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" height="30" width="40"/></code></a>
-
+<!-- <a href="https://dev.to/imbemzy" target="blank">
+<code><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"/></code></a> -->
 </p>
 
 ---
@@ -92,7 +91,9 @@
 
 ---
 
-<p align="center"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=imbemzy&&theme=transparent" alt="streak-stats" width="30" /></p>
+<p align="center">
+  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=imbemzy&&theme=transparent" alt="streak-stats" style="padding: 20px;"/>
+</p>
 
 ---
 

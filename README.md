@@ -1,5 +1,5 @@
 <p align="center">
-<img  align="center" style="border-radius: 50px;" alt="Image" width="75%" src="https://raw.githubusercontent.com/imBemZy/imBemZy/main/src/Assest/gif/jim-carrey-typing.gif?raw=true" />
+<img  align="center" alt="Image" width="100%" src="https://raw.githubusercontent.com/imBemZy/imBemZy/main/src/Assest/gif/jim-carrey-typing.gif?raw=true" />
 </p>
 
 <p align="center">

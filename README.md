@@ -30,16 +30,6 @@
 
 ---
 
-**Connect with me:**
-<p align="left">
-  <a href="https://twitter.com/zouhair_bem" target="blank">
-    <code><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></code></a>
-  <a href="https://instagram.com/zouhair_bem" target="blank">
-    <code><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Twitter" height="30" width="40" /></code></a>
-</p>
-
----
-
 **Languages and Tools:**
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 

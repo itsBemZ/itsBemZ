@@ -1,5 +1,5 @@
 <p align="center">
-  <img  align="center" alt="Image" width="100%" src="https://raw.githubusercontent.com/imBemZy/imBemZy/main/src/Assest/gif/jim-carrey-typing.gif?raw=true" />
+  <img  align="center" alt="Image" width="100%" src="https://raw.githubusercontent.com/itsBemZ/itsBemZ/main/src/Assest/gif/jim-carrey-typing.gif?raw=true" />
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 
 ---
 
-- 🔭 I’m currently working on **[Guess The Number](https://imbemzy.github.io/Guess-The-Number/)** <span><a href="https://imbemzy.github.io/Guess-The-Number/" target="blank">
-<img  src="https://img.shields.io/website?down_color=red&down_message=offline&label=&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fimbemzy.github.io%2FGuess-The-Number%2F" alt="zouhair_bem" /></a></span> - Web-Game using [Vanilla JavaScript](http://vanilla-js.com/)
+- 🔭 I’m currently working on **[Guess The Number](https://itsBemZ.github.io/Guess-The-Number/)** <span><a href="https://itsBemZ.github.io/Guess-The-Number/" target="blank">
+<img  src="https://img.shields.io/website?down_color=red&down_message=offline&label=&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2FitsBemZ.github.io%2FGuess-The-Number%2F" alt="zouhair_bem" /></a></span> - Web-Game using [Vanilla JavaScript](http://vanilla-js.com/)
 
 - 🌱 I’m currently learning **[Python](https://www.python.org/) ,** **[JavaScript](https://www.javascript.com/)** & **[ReactJS](https://reactjs.org/)** Projects
 
@@ -20,15 +20,13 @@
 
 - 🤝 I’m looking for help with **[ReactJS](https://reactjs.org/)** & **[Python](https://www.python.org/)**
 
-- 👨‍💻 All of my projects are available at **[https://imbemzy.github.io/](https://imbemzy.github.io/)** <a href="https://github.com/imBemZy/imBemZy.github.io" target="blank"><img  src="https://img.shields.io/github/stars/imBemZy/imBemZy.github.io" alt="imbemzy" /> </a>
+- 👨‍💻 All of my projects are available at **[https://itsBemZ.github.io/](https://itsBemZ.github.io/)** <a href="https://github.com/itsBemZ/itaBemZ.github.io" target="blank"><img  src="https://img.shields.io/github/stars/itsBemZ/itsBemZ.github.io" alt="itsbemz" /> </a>
 
 - 💬 Ask me about **Python, JavaScript**
 
 - 📫 How to reach me **[zouhair.bem@gmail.com](mailto:zouhair.bem@gmail.com)**
 
 - ⚡ Fun fact **The airport 🛫 is my favorite place** 🪂
-
----
 
 ---
 
@@ -78,7 +76,7 @@
 ---
 
 <p align="center">
-  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=imbemzy&&theme=transparent" alt="streak-stats" style="padding: 20px;"/>
+  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=itsbemz&&theme=transparent" alt="streak-stats" style="padding: 20px;"/>
 </p>
 
 ---
@@ -94,9 +92,9 @@
 ---
 
 <p align="center"> 
-  <a href="https://github.com/imBemZy/" target="blank">
-    <img  src="https://img.shields.io/github/followers/imBemZy?logo=github&style=flat" alt="Profile followers" />
-    <img  src="https://komarev.com/ghpvc/?username=imBemZy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/itsBemZ/" target="blank">
+    <img  src="https://img.shields.io/github/followers/itsBemZ?logo=github&style=flat" alt="Profile followers" />
+    <img  src="https://komarev.com/ghpvc/?username=itsbemz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a> 
 </p>
 <p align="center">

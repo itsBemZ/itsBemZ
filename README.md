@@ -112,6 +112,6 @@
 
 ---
 <h4 align="center">
-  <a  href="https://github.com/itsBemZ/?tab=followers" target="blank"><img src="https://img.shields.io/github/followers/itsBemZ/?style=social" alt="itsBemZ followers" /></a>
-  <a  href="https://github.com/itsBemZ/" target="blank"><img src="https://img.shields.io/github/stars/itsBemZ/?style=social" alt="itsBemZ stars" /></a>
+  <a  href="https://github.com/itsBemZ?tab=followers" target="blank"><img src="https://img.shields.io/github/followers/itsBemZ?style=plastic" alt="itsBemZ followers" /></a>
+  <a  href="https://github.com/itsBemZ/" target="blank"><img src="https://img.shields.io/github/stars/itsBemZ?style=plastic" alt="itsBemZ stars" /></a>
 </h4>

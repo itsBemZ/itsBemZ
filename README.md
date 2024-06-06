@@ -99,19 +99,30 @@
 ---
 
 <p align="center"> 
-  <a href="https://github.com/itsBemZ/" target="blank">
-    <img  src="https://img.shields.io/github/followers/itsBemZ?logo=github&style=flat" alt="Profile followers" />
-    <img  src="https://komarev.com/ghpvc/?username=itsbemz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <!--   <a href="https://github.com/itsBemZ" target="blank">
+    <img  src="https://komarev.com/ghpvc/?username=itsbemz&label=Profile%20views&abbreviated=true&color=0e75b6&style=flat" alt="Profile views" />
+  </a>  -->
+  <a href="https://github.com/itsBemZ" target="blank">
+    <img  src="https://img.shields.io/github/stars/itsBemZ?logo=github&style=flat" alt="Profile starts" />
   </a> 
-</p>
-<p align="center">
-  <a href="https://twitter.com/zouhair_bem" target="blank">
-    <img  src="https://img.shields.io/twitter/follow/zouhair_bem?color=blue&logo=twitter&style=flat" alt="Follow me on twitter" />
+    <a href="https://github.com/itsBemZ?tab=followers" target="blank">
+    <img  src="https://img.shields.io/github/followers/itsBemZ?logo=github&style=flat" alt="Profile followers" />
   </a> 
 </p>
 
+<p align="center">
+  <a href="https://github.com/itsBemZ" target="blank">
+    <img  src="https://komarev.com/ghpvc/?username=itsbemz&label=Profile%20views&abbreviated=true&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
+
+<!-- <p align="center">
+  <a href="https://twitter.com/zouhair_bem" target="blank">
+    <img  src="https://img.shields.io/twitter/follow/zouhair_bem?color=blue&logo=twitter&style=flat" alt="Follow me on twitter" />
+  </a> 
+</p> -->
+
 ---
-<h4 align="center">
-  <a  href="https://github.com/itsBemZ?tab=followers" target="blank"><img src="https://img.shields.io/github/followers/itsBemZ?style=plastic" alt="itsBemZ followers" /></a>
-  <a  href="https://github.com/itsBemZ/" target="blank"><img src="https://img.shields.io/github/stars/itsBemZ?style=plastic" alt="itsBemZ stars" /></a>
+<h2 align="center">
+  © 2024 BemZ. All rights reserved
 </h4>
